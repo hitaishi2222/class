@@ -1,4 +1,6 @@
-arr = [75,98,732,76,6511,52,456,687]
+numbers = ["cat", "dog", "cow"]
 
-arr.sort()
+for num in numbers:
+    print(num + 's')
 
+# print(*range(10))
